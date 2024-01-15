@@ -25,3 +25,10 @@ Efficient Communication: Enables real-time and efficient communication between c
 Document Management: Simplifies file sharing and retrieval through integrated file uploads and queries.
 Scalability: Utilizing Azure cloud ensures scalability and reliability in data storage.
 Overall, ChatApp is a robust and user-friendly application that enhances client communication, file sharing, and retrieval.
+
+![Screenshot (3433)](https://github.com/farhan-sheikh29/ChatBot-App/assets/109412888/0fb5f94e-8b38-460f-8dfc-8938f9b878c9)
+![Screenshot (3436)](https://github.com/farhan-sheikh29/ChatBot-App/assets/109412888/217cc698-5a13-49b8-bdd4-cb6185248d1a)
+![Screenshot (3438)](https://github.com/farhan-sheikh29/ChatBot-App/assets/109412888/4b21f97f-e573-4115-a97e-d3c12a8303cb)
+![Screenshot (3437)](https://github.com/farhan-sheikh29/ChatBot-App/assets/109412888/697caa71-f972-4062-9076-6e97bffcd9b8)
+
+
