@@ -1,5 +1,11 @@
 ChatApp
 
+Username : sheikhfarhan328@gmail.com password : farhan123
+
+
+
+
+
 Description:
 
 ChatApp is a dynamic communication platform created with OutSystems, JavaScript, and a combination of local and Azure cloud databases. This application redefines the way clients interact, providing a seamless chat experience with added functionality.
